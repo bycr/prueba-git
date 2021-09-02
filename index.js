@@ -3,3 +3,5 @@ const os = require('os');
 
 //funciones del modulo os
 console.log(os.platform());
+
+console.log("prueba"); 
